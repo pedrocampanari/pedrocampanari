@@ -5,18 +5,12 @@ Sou desenvolvedor back-end apaixonado por criar soluções inovadoras, eficiente
 Atualmente, utilizo JavaScript como minha principal ferramenta, com foco no desenvolvimento de sistemas robustos, aplicando boas práticas como Clean Code e organização de arquitetura.
 
 🚀 Tecnologias & Ferramentas
-
-JavaScript (Node.js)
-
-APIs REST
-
-Frameworks back-end
-
-Bancos de dados relacionais e não relacionais
-
-Git & GitHub
-
-Boas práticas de código (Clean Code)
+- JavaScript (Node.js)
+- APIs REST
+- Frameworks back-end
+- Bancos de dados relacionais e não relacionais
+- Git & GitHub
+- Boas práticas de código (Clean Code)
 
 💡 Sobre mim
 
